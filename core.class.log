@@ -1,0 +1,41 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593980794635@s.whatsapp.net',
+    fromMe: false,
+    id: 'CBB299BD3F8F2EE3D441E31C557AD396',
+    participant: undefined
+  },
+  messageTimestamp: 1681100988,
+  pushName: 'Bemarnet',
+  broadcast: false,
+  message: Message {
+    conversation: 'Botones',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Botones',
+  from: '593980794635'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593939091619@s.whatsapp.net',
+    fromMe: false,
+    id: 'BNJEAG9A4YELQ721LTXG',
+    participant: undefined
+  },
+  messageTimestamp: 1681101070,
+  pushName: 'Marketing Digital Santo Domingo Comunica',
+  broadcast: false,
+  message: Message {
+    templateMessage: TemplateMessage { hydratedTemplate: [HydratedFourRowTemplate] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: 'Marketing Digital Santo Domingo Comunica',
+  body: '',
+  from: '593939091619'
+}
